@@ -1739,7 +1739,7 @@ a {
 .cid-sZM2olewNx {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #22a5e5;
+  background-color: #0e5a7d;
   overflow: hidden;
 }
 .cid-sZM2olewNx .media-container-row .mbr-text {
@@ -2552,9 +2552,10 @@ a {
   padding: 1rem 0;
   background-color: transparent;
 }
+/*made changed link active here*/
 .cid-sZLR7haGir .nav-tabs .nav-link.active {
-  color: #6592e6;
-  border-bottom: 3px solid #6592e6;
+  color: black;
+  border-bottom: 3px solid black;
 }
 .cid-sZLR7haGir H4 {
   text-align: center;
