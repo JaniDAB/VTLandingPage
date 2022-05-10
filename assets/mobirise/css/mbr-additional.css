@@ -58,10 +58,14 @@ body {
 * {
   font-family: sans-serif; /* Change your font family */
 }
-
+.font-weight-bold {
+  font-weight: 700!important;
+}
 .content-table {
   border-collapse: collapse;
-  margin: 25px 0;
+  align-content: center;
+margin-left: 250px;
+  /*margin: 25px 450px;*/
   font-size: 0.9em;
   min-width: 400px;
   border-radius: 5px 5px 0 0;
@@ -70,7 +74,7 @@ body {
 }
 
 .content-table thead tr {
-  background-color: #009879;
+  background-color: #108bcd;
   color: #ffffff;
   text-align: left;
   font-weight: bold;
@@ -78,7 +82,7 @@ body {
 
 .content-table th,
 .content-table td {
-  padding: 12px 15px;
+  padding: 20px 20px;
 }
 
 .content-table tbody tr {
@@ -90,12 +94,12 @@ body {
 }
 
 .content-table tbody tr:last-of-type {
-  border-bottom: 2px solid #009879;
+  border-bottom: 2px solid #108bcd;
 }
 
 .content-table tbody tr.active-row {
   font-weight: bold;
-  color: #009879;
+  color: #108bcd;
 }
 
 @media (max-width: 768px) {
