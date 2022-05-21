@@ -119,8 +119,7 @@ body {
 .banner1{
   background-color: black;
   color: #fff;
-  display: inline;
-  padding: 0.5rem;
+  padding: 0.2rem;
   border-radius: 20px;
 }
 
