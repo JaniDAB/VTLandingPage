@@ -1296,7 +1296,12 @@ a {
     top: 7em;
     bottom: 1rem;
   }
+
+  #slider2 {
+    content:url("/assets/images/slider-2.min.png");
+  }
 }
+
 .cid-sZ7WS6qi6V .carousel-indicators {
   position: absolute;
   bottom: 0;
